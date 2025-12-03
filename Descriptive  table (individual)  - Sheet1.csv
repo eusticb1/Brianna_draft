@@ -1,0 +1,9 @@
+Table 1: Descriptive Statistics,,,,,
+,Mean,SD,Min,Max,Description
+Age (quanitative),56.98,12.36,28,88,age in years of each member
+Leadership Role,-,-,-,-,what leadership role the member holds in the house
+0=none,350,,,,the member holds no leadership role
+1=Committee Chair,77,,,,the member holds a committee chair role (0=none)
+2=Speaker,6,,,,the member holds a speaker role (2=Speaker)
+3=Minority/Majority Leader,5,,,,the member holds a minority/majority leader role (3=Minority/Majority Leader)
+4=Whip,3,,,,the member holds a whip role (4=Whip)
